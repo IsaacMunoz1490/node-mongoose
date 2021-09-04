@@ -10,6 +10,7 @@
   "author": "Isaac Munoz",
   "license": "ISC",
   "dependencies": {
+    "mongodb": "^4.1.1",
     "mongoose": "^5.10.9"
   }
 }
